@@ -2,6 +2,7 @@
 Curso Fundamentos de R en Platzi
 
 Trabajamos con dos bases de datos que nos facilitó la maestra en el curso  
+
 [A. BD Mtcars](https://github.com/sap0408/mtcars)  
 [B. BD Economía Naranja](https://github.com/sap0408/Orange-Economy)  
 
